@@ -108,7 +108,7 @@ usb_modeswitch
 usbmuxd
 usbutils
 vim
-virtualbox-guest-utils-nox
+#virtualbox-guest-utils-nox
 vpnc
 wireless-regdb
 wireless_tools
@@ -123,7 +123,6 @@ xfce4
 xfce4-goodies
 xdg-user-dirs
 virtualbox-guest-utils
-virtualbox-guest-dkms
 xorg-server
 xorg-drivers
 xorg-xinit
