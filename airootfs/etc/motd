@@ -10,4 +10,7 @@ Ethernet, WLAN and WWAN interfaces using DHCP should work automatically.
 After connecting to the internet, the installation guide can be accessed
 via the convenience script [35mInstallation_guide[0m.
 
+If you want to change the live install size, run this command:
+mount -o remount,size=[number]G /run/archiso/cowspace
+
 If you want to start the X session, type "startx"

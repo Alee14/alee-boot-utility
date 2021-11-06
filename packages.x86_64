@@ -123,6 +123,8 @@ xfce4
 xfce4-goodies
 xdg-user-dirs
 virtualbox-guest-utils
+networkmanager
+network-manager-applet
 xorg-server
 xorg-drivers
 xorg-xinit

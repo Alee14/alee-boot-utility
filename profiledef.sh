@@ -2,10 +2,10 @@
 # shellcheck disable=SC2034
 
 iso_name="aleebootutility"
-iso_label="ALEEBOOTUTILITY_$(date +%Y%m)"
+iso_label="ALEEBOOTUTILITY_$(date +%Y%m%d)"
 iso_publisher="Andrew Lee <https://alee14.me>"
 iso_application="Alee's Boot Utility"
-iso_version="$(date +%Y.%m.%d)"
+iso_version="$(date +%Y.%m.%d-%H.%M.%S)"
 install_dir="arch"
 buildmodes=('iso')
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito' 'uefi-x64.systemd-boot.esp' 'uefi-x64.systemd-boot.eltorito')
