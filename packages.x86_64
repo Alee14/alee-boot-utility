@@ -118,6 +118,11 @@ xfsprogs
 xl2tpd
 zsh
 
+# Tools
+ext4magic
+testdisk
+
+
 # X Packages
 xfce4
 xfce4-goodies
@@ -135,7 +140,8 @@ xf86-video-nouveau
 mesa
 nvidia
 
-# Application
+# Applications
+gparted
 firefox
 vlc
 virtualbox
